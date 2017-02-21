@@ -1,0 +1,6 @@
+This code was written at MVCode - www.mvcode.com
+Some repos may be blank if you didn't have any code.
+Repo Name: JavaScript Game Design
+Repo Type: pjs
+Repo URL: https://www.mvcodeclub.com/repos/16770
+Student Lesson: https://www.mvcodeclub.com/student_lessons/53346
